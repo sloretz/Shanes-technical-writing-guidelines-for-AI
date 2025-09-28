@@ -1,9 +1,9 @@
 ---
-title: No Hidden Verbs
+title: Active Verbs
 parent: Guidelines
 ---
 
-# No Hidden Verbs
+# Active Verbs
 
 Use the strongest, most direct form of the verb possible.
 

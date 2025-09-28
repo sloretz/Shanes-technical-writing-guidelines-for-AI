@@ -13,7 +13,7 @@ Check your work.
 Does your writing follow each guideline?
 
 * [Acronyms](./guidelines/acronyms)
+* [Active Verbs](./guidelines/active-verbs)
 * [Active Voice](./guidelines/active-voice)
 * [Consistent Terms](./guidelines/consistent-terms.md)
 * [Do Not Say Simple](./guidelines/do-not-say-simple)
-* [No Hidden Verbs](./guidelines/no-hidden-verbs)
