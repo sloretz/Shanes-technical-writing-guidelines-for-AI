@@ -3,7 +3,7 @@ title: Do Not Say Simple
 parent: Guidelines
 ---
 
-# Do Not Say "Simple", "Easy", or "Just"
+# Do Not Say Simple
 
 Avoid words like "simple," "easy," or "just" in instructions.
 
