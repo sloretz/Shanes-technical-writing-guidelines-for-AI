@@ -12,4 +12,4 @@ All writing must adhere to all style guidelines.
 Check your work.
 Does your writing follow each guideline?
 
-* [Active Voice](./style-guide/active-voice)
+* [Active Voice](./guidelines/active-voice)
