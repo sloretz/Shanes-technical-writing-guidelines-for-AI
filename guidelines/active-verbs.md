@@ -5,7 +5,7 @@ parent: Guidelines
 
 # Active Verbs
 
-Use the strongest, most direct form of the verb possible.
+Use the strongest, most direct form of a verb as possible.
 
 Avoid hidden verbs (nominalizations) in your writing.
 Hidden verbs make sentences longer, weaker, and less direct.
