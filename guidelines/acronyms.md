@@ -15,13 +15,13 @@ Acronyms can confuse readers, so avoid them whenever possible. If you must use a
 
 * *The General Services Administration (GSA) manages federal property. The GSA oversees many buildings.*
 * *The National Aeronautics and Space Administration (NASA) launched a new satellite. NASA’s mission is space exploration.*
-* *The Hypertext Transfer Protocol (HTTP) is the foundation of data communication on the web. HTTP enables browsers to retrieve web pages.*
+* *HTTP enables browsers to retrieve web pages.*
 
 ### 👎 Incorrect
 
 * *The GSA manages federal property. The GSA oversees many buildings.*
 * *NASA launched a new satellite. The National Aeronautics and Space Administration’s mission is space exploration.*
-* *Extensible Markup Language (XML) is used for data storage. XML enables data sharing across systems.*
+* *Extensible Markup Language is used for data storage. XML enables data sharing across systems.*
 
 ## References
 

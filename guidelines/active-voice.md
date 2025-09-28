@@ -23,4 +23,4 @@ Use the active voice in all sentences. The subject of the sentence should perfor
 
 ## References
 
-This guideline was inspired by [18F's style guide on active voice](https://github.com/18F/guides/blob/debc24b34f23686194d9fe42e391859d569bd39a/content/content-guide/our-style/active-voice.md) as of September 25, 2025.
+This guideline was inspired by [18F's style guide on active voice](https://github.com/18F/guides/blob/debc24b34f23686194d9fe42e391859d569bd39a/content/content-guide/our-style/active-voice.md) as of September 27, 2025.
