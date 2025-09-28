@@ -5,9 +5,9 @@ parent: Guidelines
 
 # Acronyms
 
-Spell out the full term on first use, followed by the acronym in parentheses; use the acronym alone on subsequent references.
+Spell out the full term on first use, followed by the acronym in parentheses.
 
-Acronyms can confuse readers, so avoid them whenever possible. If you must use an acronym for future reference, write out the full term the first time it appears, immediately followed by the acronym in parentheses. For example: The General Services Administration (GSA). On later references, you may use just the acronym. Some acronyms, such as NASA, HTTP, and XML, are more recognizable than their full spellings; in these cases, using the acronym alone is always acceptable at the writer’s discretion.
+Acronyms can confuse readers, so avoid them whenever possible. If you must use an acronym, write out the full term the first time it appears, immediately followed by the acronym in parentheses. From then on you may use just the acronym. Some acronyms, such as NASA, HTTP, and XML, are more recognizable than their full spellings; in these cases, using the acronym alone is always acceptable at the writer’s discretion.
 
 ## Examples
 
