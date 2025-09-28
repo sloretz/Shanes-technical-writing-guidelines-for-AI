@@ -5,7 +5,12 @@ parent: Guidelines
 
 # Active Voice
 
-Use the active voice in all sentences. The subject of the sentence should perform the action, not receive it. Active voice makes writing clearer, more direct, and easier to follow. Avoid passive constructions that obscure who is responsible for an action. In rare cases, passive voice may be used to soften a message or when the actor is unknown or irrelevant.
+Use the active voice in all sentences.
+
+The subject of the sentence should perform the action, not receive it.
+Active voice makes writing clearer, more direct, and easier to follow.
+Avoid passive constructions that obscure who is responsible for an action.
+In rare cases, passive voice may be used to soften a message or when the actor is unknown or irrelevant.
 
 ## Examples
 
