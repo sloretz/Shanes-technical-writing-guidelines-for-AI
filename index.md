@@ -12,4 +12,5 @@ All writing must adhere to all style guidelines.
 Check your work.
 Does your writing follow each guideline?
 
+* [Acronyms](./guidelines/acronyms)
 * [Active Voice](./guidelines/active-voice)
