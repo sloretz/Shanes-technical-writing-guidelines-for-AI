@@ -1,0 +1,6 @@
+{
+	"name": "STWGA Documentation",
+	"dockerFile": "Dockerfile",
+    "forwardPorts": [4000, 35729],
+    "postStartCommand": "bundle install && bundle exec jekyll serve --baseurl='' --livereload --force_polling"
+}

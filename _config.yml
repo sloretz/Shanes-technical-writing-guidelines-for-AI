@@ -1,11 +1,11 @@
-title: Shane's technical writing style guide for AI
-description: This website contains Shane Loretz's personal technical writing preferences. He collected it here to use them with AI.
+title: Shane's technical writing guidelines for AI
+description: This website is Shane's subjective technical writing preferences collected in one place for use with AI.
 theme: just-the-docs
 
-url: https://sloretz.github.io/Shanes-technical-writing-style-guide-for-AI
+url: https://sloretz.github.io/Shanes-technical-writing-guidelines-for-AI
 
 aux_links: # remove if you don't want this link to appear on your pages
-  Github Repository: https://github.com/sloretz/Shanes-technical-writing-style-guide-for-AI
+  Github Repository: https://github.com/sloretz/Shanes-technical-writing-guidelines-for-AI
 
 color_scheme: shane
 
