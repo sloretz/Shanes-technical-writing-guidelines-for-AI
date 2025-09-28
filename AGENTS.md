@@ -8,7 +8,7 @@ This document provides instructions on how to create a new style guideline page 
 * **Syntax**: Every style guideline page must use [CommonMark Markdown](https://commonmark.org/).
 * **Audience**: The page is for an audience familiar with technical writing, including both human writers and other AI agents. The goal is to clearly state a guideline and demonstrate its application.
 * **Scope**: Each Markdown file must contain only one style guideline. If you need to reference another guideline, use a relative link, like [active voice](./active-voice).
-* **Organization**: Every style guideline page is in the `style-guide` folder. The file `style-guide/index.md` contains a list of style guidelines in alphabetical order.
+* **Organization**: Every style guideline page is in the `style-guide` folder. The file `index.md` contains a list of style guidelines in alphabetical order.
 
 ## Page Structure and Content 
 
