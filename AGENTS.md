@@ -30,8 +30,8 @@ parent: Guidelines
 The body of the page must contain:
 
 * **The Style Guideline**: A clear and concise statement of the rule.
-* **Correct Examples**: Exactly three examples that correctly follow the rule.
-* **Incorrect Examples**: Exactly three examples that do not follow the rule.
+* **Correct Examples**: Exactly three examples that correctly follow the rule in *italics*.
+* **Incorrect Examples**: Exactly three examples that do not follow the rule in *italics*.
 
 The body of the page should contain:
 
@@ -61,15 +61,15 @@ Provide a brief paragraph explaining the rule in more detail. Explain why the ru
 
 ### 👍 Correct
 
-* *Example 1*: A complete sentence or code snippet that correctly follows the rule.
-* *Example 2*: A complete sentence or code snippet that correctly follows the rule.
-* *Example 3*: A complete sentence or code snippet that correctly follows the rule.
+* *A complete sentence or code snippet that correctly follows the rule.*
+* *A complete sentence or code snippet that correctly follows the rule.*
+* *A complete sentence or code snippet that correctly follows the rule.*
 
 ### 👎 Incorrect
 
-* *Example 1*: A complete sentence or code snippet that breaks the rule.
-* *Example 2*: A complete sentence or code snippet that breaks the rule.
-* *Example 3*: A complete sentence or code snippet that breaks the rule.
+* *A complete sentence or code snippet that breaks the rule.*
+* *A complete sentence or code snippet that breaks the rule.*
+* *A complete sentence or code snippet that breaks the rule.*
 
 ## References
 

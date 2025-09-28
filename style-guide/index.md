@@ -5,4 +5,4 @@ parent: Guidelines
 
 # Shane's technical writing style guide
 
-* TODO write the first rule and link it here.
+* [Active Voice](./active-voice.md)
