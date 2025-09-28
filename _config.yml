@@ -19,3 +19,5 @@ exclude:
   - .github
   - .vscode
   - .devcontainer
+  - vendor
+  
