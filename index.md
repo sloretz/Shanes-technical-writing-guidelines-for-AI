@@ -18,3 +18,4 @@ Does your writing follow each guideline?
 * [Consistent Terms](./guidelines/consistent-terms)
 * [Be Concise](./guidelines/be-concise)
 * [Do Not Say Simple](./guidelines/do-not-say-simple)
+* [No Contractions](./guidelines/no-contractions)
