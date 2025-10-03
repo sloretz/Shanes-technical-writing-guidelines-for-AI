@@ -19,3 +19,4 @@ Does your writing follow each guideline?
 * [Be Concise](./guidelines/be-concise)
 * [Do Not Say Simple](./guidelines/do-not-say-simple)
 * [No Contractions](./guidelines/no-contractions)
+* [Refer to the Reader as "You"](./guidelines/refer-to-reader-as-you)
