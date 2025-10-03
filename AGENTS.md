@@ -1,6 +1,7 @@
 # Instructions for AI Agents
 
-This document provides instructions on how to create a new style guideline page for this repository. Follow these instructions carefully to ensure consistency across all guidelines.
+This document provides instructions on how to create a new style guideline page for this repository.
+Follow these instructions carefully to ensure consistency across all guidelines.
 
 
 ## Core Principles
@@ -14,9 +15,16 @@ This document provides instructions on how to create a new style guideline page 
 
 Every style guideline page must adhere to the following structure and include these specific elements.
 
+### One sentence per line
+
+Always put each sentence on a new line.
+Never put multiple sentences on the same line.
+Do not wrap long sentences; keep them on the same line.
+
 ### File Header
 
-Every page must begin with this exact YAML front matter block. Replace `NAME OF STYLE GUIDELINE` with the title of the rule.
+Every page must begin with this exact YAML front matter block.
+Replace `NAME OF STYLE GUIDELINE` with the title of the rule.
 
 ```
 ---
@@ -60,7 +68,9 @@ parent: Guidelines
 
 State the rule in a single, clear sentence.
 
-Provide a brief paragraph explaining the rule in more detail. Explain why the rule is important and in what contexts it should be applied. If there are common exceptions to the rule, mention them here.
+Provide a brief paragraph explaining the rule in more detail.
+Explain why the rule is important and in what contexts it should be applied.
+If there are common exceptions to the rule, mention them here.
 
 ## Examples
 
