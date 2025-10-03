@@ -30,12 +30,17 @@ parent: Guidelines
 The body of the page must contain:
 
 * **The Style Guideline**: A clear and concise statement of the rule.
-* **Correct Examples**: Exactly three examples that correctly follow the rule in *italics*.
-* **Incorrect Examples**: Exactly three examples that do not follow the rule in *italics*.
+* **Correct Examples**: Up to three examples that correctly follow the rule.
+* **Incorrect Examples**: Up to three examples that do not follow the rule
 
 The body of the page should contain:
 
 * **References for the guideline**: A URL of another style guide where this guideline was borrowed from, and the date that the URL was accessed.
+
+#### Example format
+
+If a guideline example is a single sentence, then put the examples in a list *in italics*.
+If a guideline example requires multiple sentences, then put the examples in code blocks.
 
 ### File Footer
 
@@ -65,11 +70,25 @@ Provide a brief paragraph explaining the rule in more detail. Explain why the ru
 * *A complete sentence or code snippet that correctly follows the rule.*
 * *A complete sentence or code snippet that correctly follows the rule.*
 
+OR
+
+```
+An example that requires multiple sentences to demonstrate correctly following the rule must be put in a code block.
+Put one example per code block.
+```
+
 ### 👎 Incorrect
 
 * *A complete sentence or code snippet that breaks the rule.*
 * *A complete sentence or code snippet that breaks the rule.*
 * *A complete sentence or code snippet that breaks the rule.*
+
+OR
+
+```
+An example that requires multiple sentences to demonstrate incorrectly following the rule must be put in a code block.
+Put one example per code block.
+```
 
 ## References
 

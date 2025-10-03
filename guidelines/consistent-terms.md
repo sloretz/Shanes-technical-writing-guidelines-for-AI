@@ -16,15 +16,33 @@ Using a different term may cause the reader to wonder if you’re referring to t
 
 ### 👍 Correct
 
-* *The API endpoint returns a JSON response. To access the API endpoint, send a GET request.*
-* *The build process compiles the source code. The build process also runs automated tests.*
-* *The configuration file stores user preferences. Edit the configuration file to change settings.*
+```
+The API endpoint returns a JSON response.
+To access the API endpoint, send a GET request.
+```
+```
+The build process compiles the source code.
+The build process also runs automated tests.
+```
+```
+The configuration file stores user preferences.
+Edit the configuration file to change settings.
+```
 
 ### 👎 Incorrect
 
-* *The API endpoint returns a JSON response. To access the web service, send a GET request.*
-* *The build process compiles the source code. The compilation step also runs automated tests.*
-* *The configuration file stores user preferences. Edit the settings file to change options.*
+```
+The API endpoint returns a JSON response.
+To access the web service, send a GET request.
+```
+```
+The build process compiles the source code.
+The compilation step also runs automated tests.
+```
+```
+The configuration file stores user preferences.
+Edit the settings file to change options.
+```
 
 ## References
 
